@@ -226,34 +226,18 @@ The skills I'm learning vary according to each model development phase: creating
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
       </td>
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Docker<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-       Ubuntu<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Pytorch<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" >
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        FAST API<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         HuggingFace<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/87b19ec4-45ef-42f9-a1a7-95318fb49e4b">
       </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        RunPod<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2d9e4114-0d6f-473c-b517-b7439f8a0590">
-      </td>   
     </tr>
      <tr> 
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Numpy<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+      </td> 
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Kaggle<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/kaggle.svg">
       </td> 
        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         VSCode<br>
@@ -290,14 +274,6 @@ The skills I'm learning vary according to each model development phase: creating
         Tensorflow<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
      </td> 
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Django<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4f983f9a-8525-4adf-a138-f23efaf4a1a9">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Flask<br>
-           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5f8e94e3-b073-4fe3-9822-d2b47e8e2590"> 
-      </td>
     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Java<br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -314,10 +290,6 @@ The skills I'm learning vary according to each model development phase: creating
         Kubernetes<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Grafana<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-      </td>
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         AWS<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/f15fe088-bc15-41c3-aac1-81e3a1f18dd7">
