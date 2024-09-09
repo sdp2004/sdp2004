@@ -229,6 +229,19 @@ The skills I'm learning vary according to each model development phase: creating
         HuggingFace<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/87b19ec4-45ef-42f9-a1a7-95318fb49e4b">
       </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Java<br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Tensorflow<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
+     </td>
+           </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Microsoft Azure<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"> 
+     </td>
     </tr>
      <tr> 
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -237,7 +250,7 @@ The skills I'm learning vary according to each model development phase: creating
       </td> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Kaggle<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/kaggle.svg">
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg">
       </td> 
        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         VSCode<br>
@@ -254,15 +267,18 @@ The skills I'm learning vary according to each model development phase: creating
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Pandas<br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-      </td> 
+      </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        SQL<br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+      </td>
      </tr>
   </tbody>
 </table>
 </div> 
-<br><br><br><br><br>
-<div>
-
-
+<br><br><br><br><br><br><br><br><br><br>
+<div><br>
+<br>
 <!-- I WISH TO LEARN-->    
 <img height="35px" width="195" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning: <br>
 </div>
@@ -270,18 +286,6 @@ The skills I'm learning vary according to each model development phase: creating
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
   <tbody> 
     <tr>
-    <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Tensorflow<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
-     </td> 
-    <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Java<br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-      </td>   
-    <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        SQL<br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-      </td>
      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Google Cloud<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
