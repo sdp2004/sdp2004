@@ -392,7 +392,7 @@ The skills I'm learning vary according to each model development phase: creating
 -->
 
 <div align="center" style="width: 100%;">
-   <img align="center" height="" width="" style="display: block; margin-left: auto; margin-right: auto; max-width:400px; width:400px; height:;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D">
+   <img align="center" height="" width="" style="display: block; margin-left: auto; margin-right: auto; max-width:400px; width:400px; height:;" src="https://streak-stats.demolab.com/?user=sdp2004&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D">
  </div>  
 
 
@@ -402,24 +402,12 @@ The skills I'm learning vary according to each model development phase: creating
   <div style="float: left; text-align: center;">
      <br><img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d">
 <!-- LINKEDIN -->
-<a href="https://www.linkedin.com/in/mel-5664a1bb/">
+<a href="https://www.linkedin.com/in/soumi-pal-6090a724b">
    <br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5b2236e2-cf14-467d-bcb6-3c69d2c6911c" height="28px" width="">
 </a>
 <!-- EMAIL -->
-<a href="mailto:meliza.caug@gmail.com">
+<a href="mailto:soumi092004@gmail.com">
     <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ade66fa4-225a-4124-baee-57a452cf62eb" height="28px" width="">
-</a>
-<!-- HOTMAIL -->
-<a href="mailto:mel.augusto@fatec.sp.gov.br">
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3e569641-2221-450a-8147-c6b1f3169589" height="28px" width="">
-</a>
-<!-- DISCORD -->
-<a href="#" onclick="alert('mel7514'); return false;">  
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2864db5-a3b2-41ed-b197-9c8765149b6b" height="28px" width="" onclick="alert('mel7514');">
-</a>
-<!-- HUGGINGFACE -->
-<a href="https://huggingface.co/Mel-Iza0"> 
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3d754583-1dfb-497b-b52e-96ca7a6314d1" height="28px" width="">
 </a>
   </div>
 <div align="center"> 
